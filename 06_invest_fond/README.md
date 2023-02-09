@@ -1,7 +1,7 @@
 Проект 6.
 
 # SQL
-![alt text](figures/Image.png)
+![Схема базы данных](https://github.com/dema-02/yandex-praktikum-projekt/edit/main/06_invest_fond/Image.png)
 
 ## Работа с базой данных инвестфондов.
 
