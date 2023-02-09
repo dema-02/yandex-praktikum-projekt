@@ -1,6 +1,8 @@
 Проект 6.1.
 # Продвинутый SQL
 
+![Схема базы данных](https://github.com/dema-02/yandex-praktikum-projekt/blob/main/06_1_sql_StackOverflow/Image%20(1).png)
+
 ## Работа с базой данных StackOverflow — сервиса вопросов и ответов о программировании.
 
 Я работал с версией базы StackOverflow, где хранятся данные о постах за 2008 год, но в таблицах 
