@@ -32,4 +32,4 @@
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1VbuD7igm3M27j1TkTTdVA6FignM_ftqP/view)
 
-[Дашборд] (https://public.tableau.com/app/profile/.67426837/viz/_16783517102310/Dashboard1?publish=yes)
+[Дашборд](https://public.tableau.com/app/profile/.67426837/viz/_16783517102310/Dashboard1?publish=yes)
